@@ -1,14 +1,12 @@
-<header class="site-header px2 px-responsive">
-  <div class="mt2 wrap">
-    <div class="measure">
-      <a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
-      <nav class="site-nav right">
-        {% include navigation.html %}
-      </nav>
-      <div class="clearfix"></div>
-      {% if site.show_social_icons %}
-        {% include social_links.html %}
-      {% endif %}
-    </div>
-  </div>
+<header class="site-header">
+  <a href="/" class="site-title">
+    <div class="block"></div>
+    <span class="firstname">Mu-An</span><span class="lastname">Chiou</strong>
+  </a>
+  <nav>
+    {% for link in site.links %}
+      <a id="ind-{{ link.name | downcase }}" href="{{ link.url }}">{{ link.name }}</a>
+    {% endfor %}
+  </nav>
 </header>
+<a id="fork-me" class="fork-me" href="https://github.com/muan/muan.github.com"><img src="/images/fmog.png" alt="Fork me on GitHub"></a>
