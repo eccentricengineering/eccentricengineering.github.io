@@ -12,11 +12,11 @@ Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather th
 
 It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
 {{ oembed http://www.youtube.com/watch?v=Sv5iEK-IEzw }}
-{% image 350x200 dream.jpg alt="An example of image tag markup" %}
+
 <blockquote>
   <p>
     Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
-    {% flickr_photo 14774794845 %}
+  
   </p>
   <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
 </blockquote>
