@@ -7,8 +7,8 @@ body {
   padding: 20px 10px;
 }
 a {
-  color: #6AD;
-  font-weight: 700; }
+  color: #000;
+  font-weight: 500; }
 
 b, strong, h1, h2, h3, h4, h5 {
   font-weight: 700; }
@@ -33,10 +33,12 @@ hr {
   font-weight: bold;
   text-transform: lowercase;
   margin-bottom: 20px;
-  text-align: right; }
+  text-align: right;
+  font-size: 15px;
+  }
   .site-header .site-title {
     float: left;
-    color: #676767;
+    color: #000;
     -webkit-transition: 0.4s;
     -moz-transition: 0.4s;
     -ms-transition: 0.4s;
@@ -45,14 +47,14 @@ hr {
     text-transform: none;
     display: block;
     margin-bottom: 5px;
-    font-weight: bold; }
+    font-weight: normal; }
     .site-header .site-title:hover {
-      color: #59b; }
+      color: #000; }
       .site-header .site-title:hover .block {
-        background-color: #6AD; }
+        background-color: #000; }
       .site-header .site-title:hover .lastname {
         opacity: .7;
-        color: #59b; }
+        color: #000; }
     .site-header .site-title .block {
       display: inline-block;
       width: 0px;
