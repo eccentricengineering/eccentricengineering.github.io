@@ -11,8 +11,8 @@ Hello.
 Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
 
 It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
-
-
+{{ oembed http://www.youtube.com/watch?v=Sv5iEK-IEzw }}
+{% image 350x200 dream.jpg alt="An example of image tag markup" %}
 <blockquote>
   <p>
     Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.

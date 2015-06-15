@@ -56,3 +56,19 @@ sass:
 # flickr
 flickr:
   api_key: 564beae8badc6693bd382a61f590434e
+
+
+image:
+  source: assets/images/_fullsize
+  output: generated
+  presets:
+    # Proportional preset
+    users:
+      attr:
+        class: user-portrait
+        itemprop: image
+      width: 350
+    # Scaled and cropped preset
+    half:
+      width: 400
+      height: 400
