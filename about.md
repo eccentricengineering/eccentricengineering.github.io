@@ -1,10 +1,21 @@
 ---
-layout: page
-title: About
+layout: post
+title: Just an ordinary about page
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+**Mu-An Chiou** <small>(**邱慕安**)</small>. 
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+I am a designer at [GitHub](https://github.com) and co-founder of [Zeczec](http://zeczec.com). 
 
-This theme is made by me. You have a nice day. ♥
+I am a **Taiwanese** from Taipei, have been in the UK for the past 5 years, currently based in **London**.
+
+I started (trying) to do what I do now when I was 11, got into **French** in university but quickly dropped out, studied **Product Design** later instead, then went back doing web after graduated. 
+
+I like web much more, because on the internet you **see the result much quicker**, and I don't have patience. You can find some of my product design works [here](http://be.net/muan).
+
+For my fellow internet dwellers, I'm on 
+[Twitter](https://twitter.com/muanchiou),
+[GitHub](https://github.com/muan),
+[Dribbble](http://dribbble.com/muan), and
+[Instagram](http://instagram.com/muanchiou).
+There's a [XML Feed](/feed.xml) for my posts, and [this site is opensource](https://github.com/muan/muan.github.com) on GitHub.
