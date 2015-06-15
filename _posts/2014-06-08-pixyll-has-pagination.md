@@ -13,3 +13,4 @@ This is an empty post to illustrate the pagination component with Pixyll.
 
 
 <img src="https://farm8.staticflickr.com/7309/13977819079_c15a2ab5cb_z.jpg">
+<img src="https://flic.kr/p/oe6x2L">
