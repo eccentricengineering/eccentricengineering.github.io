@@ -1,11 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700);
 body {
-  background-color: #f4f4f4;
+  background-color: #FFFFFF;
   color: #343434;
   line-height: 1.6em;
-  font-family: Ubuntu;
-  padding: 20px 10px; }
-
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px 10px;
+}
 a {
   color: #6AD;
   font-weight: 700; }
@@ -31,7 +31,7 @@ hr {
 
 .site-header {
   font-weight: bold;
-  text-transform: uppercase;
+  text-transform: lowercase;
   margin-bottom: 20px;
   text-align: right; }
   .site-header .site-title {
@@ -42,7 +42,7 @@ hr {
     -ms-transition: 0.4s;
     -o-transition: 0.4s;
     transition: 0.4s;
-    text-transform: uppercase;
+    text-transform: none;
     display: block;
     margin-bottom: 5px;
     font-weight: bold; }
@@ -55,7 +55,7 @@ hr {
         color: #59b; }
     .site-header .site-title .block {
       display: inline-block;
-      width: 30px;
+      width: 0px;
       height: 9px;
       margin-top: 1px;
       background-color: #ddd;
