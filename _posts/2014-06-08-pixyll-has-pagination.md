@@ -7,3 +7,6 @@ categories: jekyll pixyll
 ---
 
 This is an empty post to illustrate the pagination component with Pixyll.
+
+{{ oembed http://www.youtube.com/watch?v=Sv5iEK-IEzw }}
+{ oembed http://www.youtube.com/watch?v=Sv5iEK-IEzw }

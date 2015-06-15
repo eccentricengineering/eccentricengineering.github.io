@@ -3,7 +3,7 @@ title:       eccentric engineering
 email:       tega.brain@eyebeam.org
 author:      Tega Brain
 description: "Making non-human engineering"
-baseurl:     ""
+baseurl:     "http://eccentricengineering.github.io"
 url:         "http://eccentricengineering.github.io"
 
 # Google analytics
