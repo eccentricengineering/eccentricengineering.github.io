@@ -1,13 +1,13 @@
-title:            Mu-An Chiou - @muanchiou || @muan
-url:              http://muan.co
+title:            Eccentric Engineering
+url:              http://eccentricengineering.github.io/
 permalink:        pretty
 pygments:         true
 markdown:         rdiscount
 rdiscount:
   extensions:     [smart]
-google_analytics: UA-21332781-7
-timezone:         Europe/London
+google_analytics:
+timezone:         NYC/Sydney
 paginate: 5
-links: 
+links:
   - name:         About
     url:          /about
