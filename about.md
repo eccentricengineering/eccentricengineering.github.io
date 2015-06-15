@@ -8,6 +8,6 @@ This is a research blog investigating eccentric engineering. Eccentric engineeri
 
 This project is currently being developed in a residency at Eyebeam Center for Art and Technology.
 
-You can find out more about me on my website: tega.brain@gmail.com
+You can find out more about me on my website: [tega.brain.com](http://tegabrain.com/)
 
 Twitter: [@tegabrain](http://twitter.com/tegabrain)
