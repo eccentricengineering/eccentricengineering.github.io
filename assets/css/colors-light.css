@@ -33,6 +33,10 @@ blockquote {
 	border-color: #999;
 }
 
+#header h1 {
+	color:#000000;
+}
+
 #sidebar a:hover {
 	color: #999;
 
