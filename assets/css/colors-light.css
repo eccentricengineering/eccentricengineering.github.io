@@ -22,11 +22,12 @@ h1 a, h1 a:visited, h1 a:active {
 }
 
 h1 a:hover {
-
+	color:#999;
 }
 
 article h1 a.anchor {
-	color: #2aa198;
+	color:#000000;
+	font-weight: bold;
 }
 
 blockquote {
@@ -38,7 +39,7 @@ blockquote {
 }
 
 #sidebar a:hover {
-
+	color:#999;
 
 }
 
