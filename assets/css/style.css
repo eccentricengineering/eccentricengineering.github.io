@@ -32,7 +32,7 @@ table {
 
 /*** Basics ***/
 body {
-	font-family: Verdana, sans-serif;
+	font-family: "Courier New", Courier, monospace;
 	font-size: 11x;
 	line-height: 1.5em;
 }
@@ -80,6 +80,7 @@ h1 {
 	font-size: 11px;
 	margin: 0 0 10px 0;
 	text-decoration: none;
+	letter-spacing: 1.1;
 }
 h2 {
 	font-size: 11px;
@@ -126,6 +127,7 @@ h3 {
 }
 #header h1 a {
 	border: none;
+	text-decoration: none;
 }
 
 #footer {
