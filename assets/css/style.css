@@ -79,13 +79,14 @@ acronym, abbr {
 h1 {
 	font-size: 11px;
 	margin: 0 0 10px 0;
+	text-decoration: none;
 }
 h2 {
-	font-size: 15px;
+	font-size: 11px;
 	margin: 0 0 10px 0;
 }
 h3 {
-	font-size: 14px;
+	font-size: 11px;
 	margin: 0 0 10px 0;
 }
 
@@ -119,8 +120,9 @@ h3 {
 	margin: 40px auto 50px auto;
 }
 #header h1 {
-	font-size: 32px;
+	font-size: 11px;
 	margin-bottom: 4px;
+	text-transform: uppercase;
 }
 #header h1 a {
 	border: none;
@@ -155,7 +157,8 @@ h3 {
 #sidebar a {
 	border: none;
 	font-family: Verdana, sans-serif;
-
+	text-decoration: none;
+  text-transform: uppercase;
 	padding: 2px 4px;
 }
 
