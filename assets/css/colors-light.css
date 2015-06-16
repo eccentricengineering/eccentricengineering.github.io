@@ -10,11 +10,12 @@ a, a:visited, a:active {
 
 a:hover {
 
-	color: ##839496;
+	color: #839496;
 }
 
 h1, h2, h3 {
-	color: #999;
+	color: #000000;
+	font-weight: bold;
 }
 
 h1 a, h1 a:visited, h1 a:active {
