@@ -80,7 +80,10 @@ h1 {
 	font-size: 12px;
 	margin: 0 0 10px 0;
 	text-decoration: none;
-	letter-spacing: 1.1;
+	text-decoration: uppercase;
+	letter-spacing: 2px
+	color:#000;
+	font-weight: normal;
 }
 h2 {
 	font-size: 12px;
@@ -128,10 +131,7 @@ h3 {
 	font-size: 12px;
 	margin-bottom: 4px;
 	text-transform: none;
-	text-decoration: uppercase;
-	letter-spacing: 2px
-	color:#000;
-	font-weight: normal;
+
 }
 }
 #header h1 a {
