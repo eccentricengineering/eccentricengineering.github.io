@@ -127,10 +127,10 @@ h3 {
 	text-transform: none;
 }
 #header h1 a {
-	border:dashed, 1px;
-	padding: 2px;
+
 	text-decoration: none;
 	color:#000;
+	font-weight: bolder;
 }
 
 #footer {
@@ -176,7 +176,8 @@ article {
 }
 
 article h1 {
-	border: dashed, 1px;
+	border: dashed 1px;
+	padding: 2px;
 	font-size: 12px;
 	margin: 0 0 10px 0;
 }
