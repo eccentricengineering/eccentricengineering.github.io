@@ -39,7 +39,7 @@ body {
 
 a, a:active, a:visited {
 	text-decoration: none;
-	border-bottom: 1px solid #839496;
+	border-bottom: 0px solid #839496;
 	padding-bottom: 2px;
 }
 a:hover {
@@ -109,6 +109,9 @@ h3 {
 
 
 
+
+
+
 /*** Structure ***/
 #page {
 	width: 500px;
@@ -128,9 +131,10 @@ h3 {
 }
 #header h1 a {
 
-	text-decoration: none;
+	text-decoration: uppercase;
+	letter-spacing: 2px
 	color:#000;
-	font-weight: bolder;
+	font-weight: normal;
 }
 
 #footer {
@@ -176,13 +180,14 @@ article {
 }
 
 article h1 {
-	border: dashed 1px;
-	padding: 2px;
+
 	font-size: 12px;
 	margin: 0 0 10px 0;
 }
 article h1 a {
-	border-bottom: dashed 2px;
+	border-color: 2aa198;
+	border: dashed 1px;
+	padding: 2px;
 }
 article h1 a.anchor {
 	margin-left: 8px;
