@@ -18,17 +18,21 @@ h1, h2, h3 {
 
 }
 
+p {
+	color:#ffffff;
+}
+
 h1 a, h1 a:visited, h1 a:active {
 
-
+	font-weight: lighter;
 
 
 }
 
 h2 a, h2 a:visited, h2 a:active {
 
-
-	font-weight: normal;
+	color:#ffffff;
+	font-weight: lighter;
 
 }
 
@@ -37,7 +41,7 @@ h2 a:hover {
 }
 
 article h1 a.anchor {
-	color:#ffffff;
+	color:#000000;
 	font-weight: bold;
 }
 
