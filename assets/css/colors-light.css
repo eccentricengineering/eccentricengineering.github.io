@@ -4,7 +4,7 @@ html, body {
 }
 
 a, a:visited, a:active {
-	color: #ffffff;
+	color: #A06283;
 
 }
 
@@ -24,7 +24,7 @@ p {
 }
 
 h1 a, h1 a:visited, h1 a:active {
-
+	color: #ffffff;
 	font-weight: 100;
 
 
