@@ -132,7 +132,7 @@ h3 {
 }
 }
 #header h1 a {
-	color:#000;
+
 	font-weight: lighter;
 }
 
@@ -176,7 +176,7 @@ h3 {
 /*** Posts ***/
 article {
 	margin-bottom: 40px;
-	color: #000000;
+
 }
 
 article h2 {
