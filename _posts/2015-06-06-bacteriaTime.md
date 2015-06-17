@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-06-05 14:34:00 PST
-title: Reading List
+date: 2015-06-06 14:34:00 PST
+title: Growing culture
 cover: /images/13072203.png
 ---
 
