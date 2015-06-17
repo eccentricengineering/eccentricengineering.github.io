@@ -79,13 +79,14 @@ acronym, abbr {
 h1 {
 	font-size: 12px;
 	margin: 0 0 10px 0;
-	text-decoration: uppercase;
+	text-transform: uppercase;
 	letter-spacing: 2px;
 }
 h2 {
 	font-size: 12px;
 	margin: 0 0 10px 0;
-
+	text-transform: uppercase;
+	letter-spacing: 2px;
 	font-weight: normal;
 }
 h3 {
