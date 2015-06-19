@@ -7,7 +7,7 @@ cover: /images/13072203.png
 
 Initial reading list...
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Pickering.jpg?raw=true width="200")
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Pickering.jpg?raw=true =200x)
 
 ![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Medina.jpg?raw=true width="200")
 
