@@ -9,14 +9,14 @@ Initial reading list...
 
 ![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Pickering.jpg?raw=true )
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Medina.jpg?raw=true width="200")
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Medina.jpg?raw=true)
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Virilio.jpg?raw=true width="200")
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Virilio.jpg?raw=true)
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Wiener.jpg?raw=true width="200")
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Wiener.jpg?raw=true)
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Galloway.jpg?raw=true width="200")
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/galloway.jpg?raw=true)
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/dunneraby.jpg?raw=true width="200")
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/dunneraby.jpg?raw=true)
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/dunne.jpg?raw=true width="200")
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/dunne.jpg?raw=true )
