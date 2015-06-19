@@ -9,7 +9,7 @@ Initial reading list...
 
 ![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/tree/master/images/reading/Pickering.jpg)
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/tree/master/images/reading/Medina.jpg)
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Medina.jpg)
 
 ![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/tree/master/images/reading/Virilio.jpg)
 
