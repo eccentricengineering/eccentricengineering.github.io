@@ -15,6 +15,10 @@ Initial reading list...
 
 ![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/galloway.jpg?raw=true)
 
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/kock.jpg?raw=true
+
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/turpin.jpg?raw=true
+
 ![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/dunneraby.jpg?raw=true)
 
 ![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/dunne.jpg?raw=true )

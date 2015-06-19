@@ -5,7 +5,7 @@ date: 2015-06-01 01:43:50
 cover: /images/13082901.jpg
 ---
 
-Technologies afford winners and losers. They are dynamic entities that coproduce environments and cultures through both material, psychological and (more recently) algorithmic interactions that privilege certain agendas and perspectives. Can we move beyond thinking of technologies in exclusively in human terms, and re-conceive systems, infrastructures and devices that include, accommodate and amplify the experience of those not typically included in their scope?
+Technologies afford winners and losers. They are dynamic entities that coproduce environments and cultures through both material, psychological and (more recently) algorithmic interactions that privilege certain agendas and perspectives. Can we move beyond thinking of technologies in exclusively in human terms, and re-conceive systems, infrastructures and technologies to accommodate and amplify the experiences of those not typically included in their scope?
 
 How can human systems, infrastructures and devices be re-conceived to accommodate the perspectives & agendas of non-humans? In response to this question, this project focuses on developing experimental technologies, devices or softwares that tie user experience to that of a non-human’s.
 
