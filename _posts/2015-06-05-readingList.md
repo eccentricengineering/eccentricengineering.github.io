@@ -7,16 +7,16 @@ cover: /images/13072203.png
 
 Initial reading list...
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Pickering.jpg?raw=true)
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Pickering.jpg?raw=true{width=400px})
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Medina.jpg)
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Medina.jpg?raw=true{width=400px})
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/tree/master/images/reading/Virilio.jpg)
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Virilio.jpg?raw=true{width=400px})
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/tree/master/images/reading/Wiener.jpg)
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Wiener.jpg?raw=true{width=400px})
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/tree/master/images/reading/Galloway.jpg)
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/Galloway.jpg?raw=true{width=400px})
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/tree/master/images/reading/dunneraby.jpg)
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/dunneraby.jpg?raw=true{width=400px})
 
-![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/tree/master/images/reading/dunne.jpg)
+![logo](https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/reading/dunne.jpg?raw=true{width=400px})
