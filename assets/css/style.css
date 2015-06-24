@@ -44,7 +44,7 @@ a, a:active, a:visited {
 	padding-bottom: 2px;
 }
 a:hover {
-
+	text-decoration: line-through;
 	color: #FF00DF;
 }
 

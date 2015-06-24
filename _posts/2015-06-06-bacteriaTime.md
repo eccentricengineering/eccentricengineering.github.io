@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-06-06 14:34:00 PST
-title: Growing culture
+title: Some culture.
 cover: /images/13072203.png
 ---
 
