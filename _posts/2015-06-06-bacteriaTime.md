@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-06-06 14:34:00 PST
-title: Some culture.
+title: Some cultures.
 cover: /images/13072203.png
 ---
 
