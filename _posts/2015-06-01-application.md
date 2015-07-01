@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To begin: Project Proposal
+title: Project Proposal
 date: 2015-06-01 01:43:50
 cover: /images/13082901.jpg
 ---
