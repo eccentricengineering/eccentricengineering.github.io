@@ -48,7 +48,9 @@ a:hover {
 	color: #FF00DF;
 }
 
-p { margin-bottom: 15px; }
+p { margin-bottom: 15px;
+	font-family: Georgia,serif;
+}
 ul, ol { padding: 0 0 18px 30px; }
 ol li, ul li { margin-top: 10px; margin-bottom: 10px; }
 em, i { font-style: italic; }
