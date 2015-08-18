@@ -6,7 +6,7 @@ title: About
 
 This is a collection of research and thinking on eccentric engineering.
 
-Eccentric engineering is engineering for others. It is creative work that rethinks how we design and engineer technologies. It attempts to decenter the human in how we assess success and failure in the systems, tools and devices we build. How can technologies enact other agendas and mutually benefit both humans and non-humans concurrently?
+Eccentric engineering is engineering for others. It is creative work that rethinks how we design and engineer. How can technologies enact more-than-human agendas and mutually benefit both humans and non-humans organisms? Eccentric engineering attempts to decenter the human in how we assess success and failure in the systems, tools and devices we build. 
 
 This project is currently in development at [Eyebeam Center for Art and Technology](http://eyebeam.org/).
 
