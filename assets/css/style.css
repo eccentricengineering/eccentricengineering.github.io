@@ -89,7 +89,7 @@ h1 {
 	letter-spacing: 4px;
 }
 h2 {
-	font-size: 16px;
+
 	margin: 0 0 10px 0;
 	text-transform: uppercase;
 	letter-spacing: 4px;
@@ -189,7 +189,7 @@ article {
 
 article h2 {
 
-	font-size: 12px;
+	font-size: 14px;
 	margin: 0 0 10px 0;
 }
 article h2 a {
