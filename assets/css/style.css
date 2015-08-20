@@ -156,6 +156,12 @@ h3 {
 
 }
 
+#date{
+	width: 600px;
+	margin: 0 auto;
+
+}
+
 #sidebar {
 	position: absolute;
 	text-align: right;
