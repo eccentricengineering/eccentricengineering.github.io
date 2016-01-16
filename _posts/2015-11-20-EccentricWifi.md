@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eccentric Wifi - Radical Networks Talk
+title: Radical Networks: Eccentric Wifi, Networking with others
 date: 2015-11-20 01:43:50
 cover: /images/13082901.jpg
 ---
