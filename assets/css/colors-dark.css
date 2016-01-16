@@ -52,6 +52,10 @@ blockquote {
 	border-color: #999;
 }
 
+ul{
+	color: #839496;
+}
+
 #header h1 {
 
 }
@@ -64,6 +68,9 @@ blockquote {
 #footer {
 	color:#ffffff;
 }
+
+
+
 
 
 

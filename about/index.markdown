@@ -10,10 +10,11 @@ Eccentric engineering reimagines technologies to address their scope. It is crea
 
 How can we engineer with others?  
 
-Eccentric engineering attempts to rethink how we assess success and failure in our systems and technologies in order to structure new forms of coexistence.
+Eccentric engineering describes atypical and out-of-centre engineering practices that attempt to rethink how we assess success and failure in our systems and structure new forms of coexistence between human and non-human communities.  
+
 
 
 
 This project has been supported by [Eyebeam Center for Art and Technology](http://eyebeam.org/).
 
-You can find out more about me on my website: [tega.brain.com](http://tegabrain.com/) or on twitter: [@tegabrain](http://twitter.com/tegabrain)
+You can find out more about my work at [tega.brain.com](http://tegabrain.com/) or on twitter: [@tegabrain](http://twitter.com/tegabrain)
