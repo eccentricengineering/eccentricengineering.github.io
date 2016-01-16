@@ -9,4 +9,4 @@ cover:
 
 I recently curated and hosted a panel on Eccentric Engineering at Eyebeam's South Street Seaport space. I invited artists Karolina Soebecka, Danja Vasiliev and Ramsey Nasser to discuss recent experiments, exploring infrastructural space from eccentric and critical perspectives.
 
-(More details of the event are here.)[https://eyebeam.org/events/eccentric-engineering] with more documentation will be posted soon.
+[Details of the event are here.](https://eyebeam.org/events/eccentric-engineering) with more documentation will be posted soon.

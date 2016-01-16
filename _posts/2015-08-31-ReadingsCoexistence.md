@@ -12,4 +12,4 @@ These readings have been useful for my thinking on coexistence, how we relate to
 * Wolfe, C. (Ed.). (2003). Zoontologies: the question of the animal. U of Minnesota Press.
 * Haraway, D. J. (2008). When species meet (Vol. 224). U of Minnesota Press.
 * Stone, C. D. (1972). Should Trees Have Standing--Toward Legal Rights for Natural Objects. S. CAl. l. rev., 45, 450.
-* Elizabeth Povinelli’s lecture in The Anthropocene Project, Haus der Kulturen der Welt, available at youtube: https://www.youtube.com/watch?v=W6TLlgTg3LQ
+* Elizabeth Povinelli’s lecture in The Anthropocene Project, Haus der Kulturen der Welt, [available at youtube.](https://www.youtube.com/watch?v=W6TLlgTg3LQ)
