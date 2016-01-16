@@ -11,7 +11,7 @@ Eccentric engineering reimagines technologies to address their scope. It is crea
 How can we engineer with others?  
 
 Eccentric engineering describes atypical and out-of-centre engineering practices that attempt to rethink how we assess success and failure in our systems and structure new forms of coexistence between human and non-human communities.  
-
+<img src="https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/eccentricArt/exhibitionPic-13.jpg?raw=true" alt="alt text" width="600px">
 
 
 
