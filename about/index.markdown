@@ -12,9 +12,8 @@ How can we engineer with others?
 
 Eccentric engineering describes atypical and out-of-centre engineering practices that shift how we assess success and failure in our systems and in doing so structure new forms of coexistence within and between human and non-human communities.
 
-For more on this, see my (recent talk at TedX, Sydney.)[http://tedxsydney.com/site/item.cfm?item=FBB5B44FE8EFD26F716D09953F099D56] This project has been supported by [Eyebeam Center for Art and Technology](http://eyebeam.org/).
-
-
 <img src="https://github.com/eccentricengineering/eccentricengineering.github.io/blob/master/images/about/exhibitionPic-13.jpg?raw=true" alt="alt text" width="600px">
+
+For more on this, see my [recent talk at TedX, Sydney.](http://tedxsydney.com/site/item.cfm?item=FBB5B44FE8EFD26F716D09953F099D56) This project has been supported by [Eyebeam Center for Art and Technology](http://eyebeam.org/).
 
 You can find out more about my work at [tega.brain.com](http://tegabrain.com/) or on twitter: [@tegabrain](http://twitter.com/tegabrain)
