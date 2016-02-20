@@ -6,7 +6,7 @@ title: About
 
 This is a collection of research and thinking on eccentric engineering.
 
-Eccentric engineering reimagines technologies to address their bias and scope. It is creative work that rethinks how we design and engineer and who is included and excluded in these processes. Eccentric engineering asks questions such as - how can we build systems that enact more-than-only-human agendas? How can we redesign infrastructures based on mutualism? How can technologies be repurposed to include more diverse agendas and perspectives, particularly those of other life-forms and disenfranchised or underrepresented communities?
+Eccentric engineering reimagines technologies to address their bias and scope. It is creative work that rethinks how we design and engineer and who is included and excluded in these processes. Eccentric engineering asks questions such as - how can we build systems that enact more-than-only-human agendas? How can we redesign infrastructures based on mutualism? How can technologies be repurposed to include more diverse agendas and perspectives, particularly those of other life-forms and others who are not typically included?
 
 How can we engineer with others?  
 
